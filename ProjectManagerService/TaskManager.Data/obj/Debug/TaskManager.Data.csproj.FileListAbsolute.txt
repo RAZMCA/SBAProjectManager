@@ -1,0 +1,16 @@
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.dll.config
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.dll
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.pdb
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\bin\Debug\EntityFramework.dll
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\bin\Debug\EntityFramework.xml
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.dll
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.pdb
+D:\FSD\Output\Task_Api\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.dll.config
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.dll
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\bin\Debug\TaskManager.Data.pdb
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.dll
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.pdb
+C:\Users\Capsule\API\TaskManagerService\TaskManager.Data\obj\Debug\TaskManager.Data.csprojResolveAssemblyReference.cache

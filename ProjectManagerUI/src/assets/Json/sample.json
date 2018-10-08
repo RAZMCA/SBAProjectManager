@@ -1,0 +1,29 @@
+{
+  "taskDetails": [
+    {
+      "TaskId": "1",
+      "ParentId": 2,
+      "Task": "Test 1",
+      "StartDate": "09/06/2018",
+      "EndDate":"09/08/2018",
+      "Priority":20
+    },
+    {
+      "TaskId": "2",
+      "ParentId": 2,
+      "Task": "Test 2",
+      "StartDate": "09/07/2018",
+      "EndDate":"09/08/2018",
+      "Priority":40
+    },
+    {
+      "TaskId": "3",
+      "ParentId": 2,
+      "Task": "Test 3",
+      "StartDate": "09/08/2018",
+      "EndDate":"09/09/2018",
+      "Priority":60
+    }
+  ]
+}
+

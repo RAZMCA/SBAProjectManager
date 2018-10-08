@@ -1,0 +1,7 @@
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Debug\ProjectManager.Data.dll.config
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Debug\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Debug\ProjectManager.Data.pdb
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Debug\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Debug\ProjectManager.Data.pdb

@@ -1,0 +1,8 @@
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.dll.config
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.pdb
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\EntityFramework.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\EntityFramework.xml
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.pdb
